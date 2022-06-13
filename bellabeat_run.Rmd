@@ -8,6 +8,8 @@ date: '2022-06-01'
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+# <span style="color:#FA8072"> BellaBeat </span>
+
 #### <span style="color:#FA8072"> Table of Contents </span>
 
 * [1. Summary](#summary_1)
